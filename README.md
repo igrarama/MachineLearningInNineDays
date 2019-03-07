@@ -1,11 +1,11 @@
 # Machine Learning In Nine Days
 
 ## Installations
-For this training you'll only be needing to install [**Anaconda**](https://www.anaconda.com/distribution/#download-section).
-Please install the Python 3.7 version. 
+For this mini-course you'll only be needing to install [**Anaconda**](https://www.anaconda.com/distribution/#download-section).
+Please install the Python 3.x version. 
 You do not need to install PyCharm (or any IDE, for that matter) since all exercises will be done in Jupyter notebooks. I recommend you get yourself acquainted with the keyboard shortcuts, it will make your life much easier. 
 
-*Important: when the installation asks if you want to add anaconda to your PATH, click **yes**. This would make your life easier later. If you already have another version of python installed on your computer, I recommend that you uninstall it first and only then install the Anaconda version, to prevent weird things from happening due to collisions.*
+*Important: when the installation asks if you want to add Anaconda to your PATH, click **yes**. This would make your life easier later. If you already have another version of python installed on your computer, I recommend that you uninstall it first and only then install the Anaconda version, to prevent weird things from happening due to collisions.*
 
 ## Syllabus
 
