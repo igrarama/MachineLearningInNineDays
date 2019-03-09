@@ -1,4 +1,4 @@
-# Machine Learning In Nine Days
+# Machine Learning in Nine Days
 
 ## Installations
 For this mini-course you'll only be needing to install [**Anaconda**](https://www.anaconda.com/distribution/#download-section).
