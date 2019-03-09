@@ -39,7 +39,7 @@ You do not need to install PyCharm (or any IDE, for that matter) since all exerc
 | 3 | CNNs | 1. CS231n [lecture 5 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture5.pdf) <br> 2. [Presentation](Day%203/10%20CNNs/CNN%20Overview.pptx) | 1. [Implementing a CNN in Tensorflow](Day%203/10%20CNNs/exercise%20-%20Implementing%20a%20CNN) <br> 2. [Hand sign recognition](Day%203/10%20CNNs/exercise%20-%20Hand%20sign%20recognition) |
 | 4 | Keras | | 1. [Happy house 1](Day%204/exercise%20-%20Keras%20Happy%20House) |
 | 4 | Classic CNN Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet | 1. CS231n [lecture 9 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf) <br> 2. [Presentation](Day%204/Classic%20Architectures.pptx) | 1. [ResNet exercise](Day%204/exercise%20-%20ResNet) |
-| 4 | Keras 2 | | 1. [Happy house 2](Day%204/exercise%20-%20Happy%20House%202). Before the exercise, go over [this presentation](Day%204/Before%20the%20exercise%20-%20intro%20to%20face%20recognition.pptx) |
+| 4 | Keras 2 | | 1. [Happy house 2](Day%204/exercise%20-%20Happy%20House%202). Before the exercise, go over [this presentation](Day%204/Before%20the%20face%20recognition%20exercise.pptx) |
 | 4 | Visualizations of CNNs | 1. CS231n [lecture 12 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture12.pdf) | 1. [Visualizations of hand sign recognition network]() **TODO** |
 | 4 | Adversarial Examples | 1. CS231n [lecture 16 slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture16.pdf)| |
 
