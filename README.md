@@ -46,7 +46,7 @@ You do not need to install PyCharm (or any IDE, for that matter) since all exerc
 ## Additional Material
 1. Stanford's CS231n (CNNs for Visual Recognition) is ***highly recommended***. The [course website](http://cs231n.stanford.edu/) contains lots of useful material, and recorded lectures can be found on [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
 1. Stanford's CS224n (NLP with Deep Learning) is also ***highly recommended***. Useful material can be found on the [course website](http://web.stanford.edu/class/cs224n/), and the lectures can be found on [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6).
-1. Andrew Ng's [Machine learning course](https://www.coursera.org/learn/machine-learning) on Coursera is good. Also on Coursera, you can his series of [5 mini-courses in deep learning](https://www.coursera.org/specializations/deep-learning), which is also very good.
+1. Andrew Ng's [Machine learning course](https://www.coursera.org/learn/machine-learning) on Coursera is good. Also on Coursera, you can find his series of [5 mini-courses in deep learning](https://www.coursera.org/specializations/deep-learning), which is also very good.
 1. [This website](http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm) that contains many datasets that are in standard use in Machine Learning research (mostly for computer vision).
 1. [Google's Into to ML Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 1. [How to Apply ML to Business Problems](https://emerj.com/ai-executive-guides/how-to-apply-machine-learning-to-business-problems/)
